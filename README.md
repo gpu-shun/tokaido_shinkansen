@@ -1,1 +1,3 @@
 # tokaido_shinkansen
+
+東海道新幹線をDDDで完全再現するチャレンジプロジェクト
